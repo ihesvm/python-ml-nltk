@@ -1,0 +1,25 @@
+anyio==3.7.1
+click @ file:///work/ci_py311/click_1676825163161/work
+daal4py==2023.1.1
+fastapi==0.100.0
+h11==0.14.0
+httptools==0.6.0
+joblib @ file:///croot/joblib_1685113087166/work
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+nltk @ file:///croot/nltk_1688114146592/work
+numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
+python-dotenv==1.0.0
+regex @ file:///work/ci_py311/regex_1677086824242/work
+scikit-learn @ file:///croot/scikit-learn_1684954695550/work
+scikit-learn-intelex==20230426.111612
+scipy==1.9.3
+sniffio==1.3.0
+starlette==0.27.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tqdm @ file:///croot/tqdm_1679561862951/work
+uvicorn==0.23.0
+uvloop==0.17.0
+watchfiles==0.19.0
+websockets==11.0.3
